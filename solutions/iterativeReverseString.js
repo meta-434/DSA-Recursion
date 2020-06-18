@@ -12,3 +12,4 @@ const iterReverseString = (string) => {
 iterReverseString('hello');
 
 // i kinda really like the way this worked, lol
+// even if it is strictly less efficient than the reverse loop
