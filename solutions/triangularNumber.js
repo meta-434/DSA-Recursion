@@ -13,4 +13,4 @@ const triangularNumber = (n) => {
     // eg: 4 -> 4 + (3 + (2 + (1))) = 10;
 };
 
-console.log(triangularNumber(4));
+console.log(triangularNumber(32));

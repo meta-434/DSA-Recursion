@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dsa-big-o/.idea/dsa-big-o.iml" filepath="$PROJECT_DIR$/../dsa-big-o/.idea/dsa-big-o.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dsa-recursion.iml" filepath="$PROJECT_DIR$/.idea/dsa-recursion.iml" />
     </modules>
   </component>
